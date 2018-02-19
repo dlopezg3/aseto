@@ -1,0 +1,44 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.main-container {
+  background-image: "/assets/MainCover-0e2f501be4ccbfde5f82c46510d24bbe9a5312fcb99f391e388b8ac96ef220d2.jpg";
+  background-size: cover;
+}
+
+.btn-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.btn-google {
+  background: #4184F3;
+  color: white;
+}
+
+.btn-sign {
+  margin: 40px 0px 20px 0px;
+  width: 40px;
+  padding: 12px;
+  border-radius: 5px;
+}
+
+.title-main {
+  margin-top: 100px;
+}
+
+.title-sec {
+  font-family: Rubik;
+  font-size: 36px;
+  text-align: center;
+  color: #C44536;
+}
+
+.row-margin {
+  margin: 40px 0 0 0 ;
+}
+
+.row-margin-nav {
+  margin: 40px 0 40px 0 ;
+}
